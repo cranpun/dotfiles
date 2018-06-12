@@ -4,8 +4,6 @@ export PATH="/usr/local/sbin:$PATH"
 
 #nodebrew
 export PATH="$HOME/.nodebrew/current/bin:$PATH"
-#export NODEBREW_ROOT=/usr/local/var/nodebrew
-export PATH="/usr/local/Cellar/php/7.2.4/bin/:$PATH"
 
 alias cdgit='cd /Users/cranpun/Desktop/work/001_netdrive'
 alias cdwork='cd /Users/cranpun/Desktop/work'
