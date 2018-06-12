@@ -13,8 +13,6 @@ alias ls='ls -GF'
 alias ll='ls -lh'
 alias rm='rm -i'
 alias hosts='sudo nano /etc/hosts'
-alias canary='/Applications/Google\ Chrome\ Canary.app/Contents/MacOS/Google\ Chrome\ Canary --headless --disable-gpu'
-alias adb='/Users/cranpun/Library/Android/sdk/platform-tools/adb '
 #alias octave='/usr/local/bin/octave '
 
 # Bash completion
