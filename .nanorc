@@ -1,5 +1,6 @@
 set cut
-set constantshow
+#set constantshow
+set const
 set nowrap
 set smooth
 set suspend
