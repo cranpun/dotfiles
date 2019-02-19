@@ -5,3 +5,5 @@
 [core]
 	autocrlf = false
 	editor = nano
+[alias]
+    reamend = commit --amend -a -C HEAD --date=now
