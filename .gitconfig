@@ -7,3 +7,4 @@
 	editor = nano
 [alias]
     reamend = commit --amend -a -C HEAD --date=now
+    mylog = log --oneline --pretty=format:'%h [%cd] %d %s <%an>' --date=format:'%Y/%m/%d %H:%M:%S'
