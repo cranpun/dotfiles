@@ -1,4 +1,6 @@
-export PS1='\t \W \$ '
+#export PS1='\t \W \$ '
+export PS1='\t ${PWD#"${PWD%/*/*}/"} \$ '
+
 export PATH="$HOME/bin:$PATH"
 export PATH="/usr/local/sbin:$PATH"
 
