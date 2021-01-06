@@ -23,6 +23,7 @@ alias hosts='sudo nano /etc/hosts'
 alias tej='node /Users/cranpun/Desktop/work/001_netdrive/tej/main.js'
 alias syno='node /Users/cranpun/Desktop/work/001_netdrive/syno/main.js'
 alias cn='terminal-notifier -title "console notif" -sound Submarine -message '
+alias dk='docker-compose '
 
 ~/dotfiles/cowrnd.sh
 
